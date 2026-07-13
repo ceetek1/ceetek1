@@ -2,7 +2,7 @@
 
 Software/Computer Engineering student, building things with code and learning as I go.
 
-- 🔭 Currently working on **[ConflictBridge_App](https://github.com/Harmony-in-conflict/ConflictBridge_App)** — CultureBridge
+- 🔭 Currently working on **[TaskFlow](https://github.com/ceetek1/Tasktion_App)**
 - 🌱 Always learning and shipping small projects
 - 💼 Portfolio: [ceetek1.vercel.app](https://ceetek1.vercel.app/)
 - 📫 Reach me: charles.chukwurah@pau.edu.ng
@@ -22,7 +22,7 @@ Software/Computer Engineering student, building things with code and learning as
 
 ## Featured Project
 
-### [CultureBridge (ConflictBridge_App)](https://github.com/Harmony-in-conflict/ConflictBridge_App)
+### [TaskFlow](https://github.com/ceetek1/Tasktion_App)
 _Add a one-line description of what it does here._
 
 ## GitHub Stats
