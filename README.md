@@ -2,9 +2,9 @@
 
 software engineering student at Pan Atlantic University.
 
-Focused on AI/ML, full-stack development, and cybersecurity — still working out which one gets to be my personality.
+Focused on AI/ML, full-stack development, and cybersecurity still working out which one gets to be my personality.
 
-Outside of class, I like solving problems nobody assigned me — and occasionally creating new ones to fix later.
+Outside of class, I like solving problems nobody assigned me and occasionally creating new ones to fix later.
 
 - 💼 Portfolio: [ceetek1.vercel.app](https://ceetek1.vercel.app/)
 - 📫 Reach me: charles.chukwurah@pau.edu.ng
