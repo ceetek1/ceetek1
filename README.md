@@ -1,9 +1,11 @@
 # Hi, I'm Charles Chukwurah 👋
 
-Software/Computer Engineering student, building things with code and learning as I go.
+software engineering student at Pan Atlantic University.
 
-- 🔭 Currently working on **[TaskFlow](https://github.com/ceetek1/Tasktion_App)**
-- 🌱 Always learning and shipping small projects
+Focused on AI/ML, full-stack development, and cybersecurity — still working out which one gets to be my personality.
+
+Outside of class, I like solving problems nobody assigned me — and occasionally creating new ones to fix later.
+
 - 💼 Portfolio: [ceetek1.vercel.app](https://ceetek1.vercel.app/)
 - 📫 Reach me: charles.chukwurah@pau.edu.ng
 - 🔗 [LinkedIn](https://www.linkedin.com/in/chukwurah-charles-652775377)
@@ -23,12 +25,3 @@ Software/Computer Engineering student, building things with code and learning as
 ## Featured Project
 
 ### [TaskFlow](https://github.com/ceetek1/Tasktion_App)
-_Add a one-line description of what it does here._
-
-## GitHub Stats
-
-![Charles's GitHub stats](https://github-readme-stats.vercel.app/api?username=ceetek1&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceetek1&layout=compact&hide_border=true)
-
----
-📫 charles.chukwurah@pau.edu.ng · [LinkedIn](https://www.linkedin.com/in/chukwurah-charles-652775377) · [Portfolio](https://ceetek1.vercel.app/)
