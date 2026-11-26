@@ -1,8 +1,8 @@
 # Hi, I'm Charles Chukwurah 👋
 
-Software Engineering student at PAU focused on AI/ML and full-stack systems—passionate about building software, breaking edge cases, and engineering better solutions
+Software Engineering student at PAU focused on AI/ML.
 
-- 💼 Portfolio: [ceetek1.vercel.app](https://ceetek1.vercel.app/)
+- 💼 Portfolio: [ceetek1.up.railway.app](https://ceetek1.vercel.app/)
 - 📫 Reach me: charles.chukwurah@pau.edu.ng
 - 🔗 [LinkedIn](https://www.linkedin.com/in/chukwurah-charles-652775377)
 
